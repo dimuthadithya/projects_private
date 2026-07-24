@@ -1,16 +1,138 @@
 [
   {
     "id": 9001,
-    "name": "sample-private-project",
-    "description": "A brief one-line description of what this project does and who it is for.",
-    "homepage": "https://your-live-demo.vercel.app",
+    "name": "Udawatta Tea Factory",
+    "description": "Udawatta Tea Official Website.",
+    "homepage": "https://udawattatea.lk",
     "html_url": "",
-    "topics": ["project", "nextjs", "fullstack"],
+    "topics": [
+      "project",
+      "nextjs",
+      "tailwindcss",
+      "proxima_technologies"
+    ],
     "languages": {
-      "TypeScript": 84000,
-      "CSS": 5200
+      "JavaScript": 84000
     },
-    "card_image": "",
+    "card_image": "./images/projects/udawatta-tea-factory.png",
+    "updated_at": "2026-07-24T00:00:00Z",
+    "private": true
+  },
+  {
+    "id": 9002,
+    "name": "Udawatta Medical Center",
+    "description": "Udawatta Medical Center Official Website.",
+    "homepage": "https://udawatta-medicals.vercel.app",
+    "html_url": "",
+    "topics": [
+      "project",
+      "nextjs",
+      "tailwindcss",
+      "proxima_technologies"
+    ],
+    "languages": {
+      "JavaScript": 84000
+    },
+    "card_image": "./images/projects/udawatta-medicals.png",
+    "updated_at": "2026-07-24T00:00:00Z",
+    "private": true
+  },
+  {
+    "id": 9003,
+    "name": "Zyro Technology",
+    "description": "Zyro Technology Official Website.",
+    "homepage": "https://test.zyrotechnology.com",
+    "html_url": "",
+    "topics": [
+      "project",
+      "nextjs",
+      "tailwindcss",
+      "shadcnui",
+      "magicui",
+      "zyro_technology"
+    ],
+    "languages": {
+      "JavaScript": 84000
+    },
+    "card_image": "./images/projects/zyro-technology.png",
+    "updated_at": "2026-07-24T00:00:00Z",
+    "private": true
+  },
+  {
+    "id": 9004,
+    "name": "Proxiam Technologies",
+    "description": "Proxiam Technologies Official Website.",
+    "homepage": "https://proxima-technologies.vercel.app",
+    "html_url": "",
+    "topics": [
+      "project",
+      "nextjs",
+      "tailwindcss",
+      "daisyui",
+      "proxiam_technologies"
+    ],
+    "languages": {
+      "JavaScript": 84000
+    },
+    "card_image": "./images/projects/proxima_technologies.png",
+    "updated_at": "2026-07-24T00:00:00Z",
+    "private": true
+  },
+  {
+    "id": 9005,
+    "name": "CodeRoomLK ",
+    "description": "CodeRoomLK Official Website.",
+    "homepage": "https://coderoomlk.space",
+    "html_url": "",
+    "topics": [
+      "project",
+      "nextjs",
+      "tailwindcss",
+      "daisyui"
+    ],
+    "languages": {
+      "JavaScript": 84000
+    },
+    "card_image": "./images/projects/coderoomlk.png",
+    "updated_at": "2026-07-24T00:00:00Z",
+    "private": true
+  },
+  {
+    "id": 9006,
+    "name": "CineScope Extension",
+    "description": "Track your favorite movies and TV shows with CineScope Extension.",
+    "homepage": "https://cinescopelk.web.app/",
+    "html_url": "",
+    "topics": [
+      "project",
+      "chrome_extension",
+      "javascript",
+      "daisyui"
+    ],
+    "languages": {
+      "JavaScript": 84000
+    },
+    "card_image": "./images/projects/proxima_technologies.png",
+    "updated_at": "2026-07-24T00:00:00Z",
+    "private": true
+  },
+  {
+    "id": 9007,
+    "name": "Ai Safe Share Extension",
+    "description": "Blur sensitive information in chatGpt and Gemini AI with Ai Safe Share Extension.",
+    "homepage": "https://aisafeshare.web.app/",
+    "html_url": "",
+    "topics": [
+      "project",
+      "nextjs",
+      "tailwindcss",
+      "chrome_extension",
+      "daisyui"
+    ],
+    "languages": {
+      "JavaScript": 84000
+    },
+    "card_image": "./images/projects/ai_safe_share.png",
     "updated_at": "2026-07-24T00:00:00Z",
     "private": true
   }
