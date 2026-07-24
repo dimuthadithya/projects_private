@@ -1,0 +1,17 @@
+[
+  {
+    "id": 9001,
+    "name": "sample-private-project",
+    "description": "A brief one-line description of what this project does and who it is for.",
+    "homepage": "https://your-live-demo.vercel.app",
+    "html_url": "",
+    "topics": ["project", "nextjs", "fullstack"],
+    "languages": {
+      "TypeScript": 84000,
+      "CSS": 5200
+    },
+    "card_image": "",
+    "updated_at": "2026-07-24T00:00:00Z",
+    "private": true
+  }
+]
