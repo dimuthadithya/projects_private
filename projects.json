@@ -14,7 +14,7 @@
     "languages": {
       "JavaScript": 84000
     },
-    "card_image": "https://raw.githubusercontent.com/dimuthadithya/projects_private/main/images/projects/udawatta-tea-factory.png",
+    "card_image": "./images/projects/udawatta-tea-factory.png",
     "updated_at": "2026-07-24T00:00:00Z",
     "private": true
   },
@@ -33,7 +33,7 @@
     "languages": {
       "JavaScript": 84000
     },
-    "card_image": "https://raw.githubusercontent.com/dimuthadithya/projects_private/main/images/projects/udawatta-medicals.png",
+    "card_image": "./images/projects/udawatta-medicals.png",
     "updated_at": "2026-07-24T00:00:00Z",
     "private": true
   },
@@ -54,7 +54,7 @@
     "languages": {
       "JavaScript": 84000
     },
-    "card_image": "https://raw.githubusercontent.com/dimuthadithya/projects_private/main/images/projects/zyro-technology.png",
+    "card_image": "./images/projects/zyro-technology.png",
     "updated_at": "2026-07-24T00:00:00Z",
     "private": true
   },
@@ -74,13 +74,13 @@
     "languages": {
       "JavaScript": 84000
     },
-    "card_image": "https://raw.githubusercontent.com/dimuthadithya/projects_private/main/images/projects/proxima_technologies.png",
+    "card_image": "./images/projects/proxima_technologies.png",
     "updated_at": "2026-07-24T00:00:00Z",
     "private": true
   },
   {
     "id": 9005,
-    "name": "CodeRoomLK",
+    "name": "CodeRoomLK ",
     "description": "CodeRoomLK Official Website.",
     "homepage": "https://coderoomlk.space",
     "html_url": "",
@@ -93,7 +93,7 @@
     "languages": {
       "JavaScript": 84000
     },
-    "card_image": "https://raw.githubusercontent.com/dimuthadithya/projects_private/main/images/projects/coderoomlk.png",
+    "card_image": "./images/projects/coderoomlk.png",
     "updated_at": "2026-07-24T00:00:00Z",
     "private": true
   },
@@ -112,7 +112,7 @@
     "languages": {
       "JavaScript": 84000
     },
-    "card_image": "https://raw.githubusercontent.com/dimuthadithya/projects_private/main/images/projects/cinescope.png",
+    "card_image": "./images/projects/proxima_technologies.png",
     "updated_at": "2026-07-24T00:00:00Z",
     "private": true
   },
@@ -132,7 +132,7 @@
     "languages": {
       "JavaScript": 84000
     },
-    "card_image": "https://raw.githubusercontent.com/dimuthadithya/projects_private/main/images/projects/ai_safe_share.png",
+    "card_image": "./images/projects/ai_safe_share.png",
     "updated_at": "2026-07-24T00:00:00Z",
     "private": true
   }
